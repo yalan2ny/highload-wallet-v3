@@ -1,4 +1,4 @@
-                    GNU GENERAL PUBLIC LICENSE
+                   tab GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -116,7 +116,7 @@ for making modifications to it.  "Object code" means any non-source
 form of a work.
 
   A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
+escstandard defined by a recognized standards body, or, in the case of
 interfaces specified for a particular programming language, one that
 is widely used among developers working in that language.
 
@@ -161,7 +161,7 @@ covered work is covered by this License only if the output, given its
 content, constitutes a covered work.  This License acknowledges your
 rights of fair use or other equivalent, as provided by copyright law.
 
-  You may make, run and propagate covered works that you do not
+ tab You may make, run and propagate covered works that you do not
 convey, without conditions so long as your license otherwise remains
 in force.  You may convey covered works to others for the sole purpose
 of having them make modifications exclusively for you, or provide you
